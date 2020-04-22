@@ -1,6 +1,6 @@
 # 1 zadanko
 a = input()
-spacje = 0
+spacje = 0 blblblbl
 for litera in a:
     if litera == " ":
         spacje+=1
